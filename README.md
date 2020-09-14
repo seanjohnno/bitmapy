@@ -1,4 +1,4 @@
-# bitmapy
+# Bitmapy
 Python module for reading and writing bitmaps
 
 ## Usage
